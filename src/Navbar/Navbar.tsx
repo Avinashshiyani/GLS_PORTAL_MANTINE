@@ -13,7 +13,7 @@ import {
 import { Center, Stack, Tooltip, UnstyledButton } from "@mantine/core";
 // import { MantineLogo } from '@mantinex/mantine-logo';
 import classes from "./NavbarSegmented.module.css";
-import { redirect, useNavigate } from "react-router";
+import {  useNavigate } from "react-router";
 
 interface NavbarLinkProps {
   icon: typeof IconHome2;

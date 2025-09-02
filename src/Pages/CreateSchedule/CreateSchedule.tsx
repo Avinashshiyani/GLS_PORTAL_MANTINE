@@ -7,7 +7,6 @@ import {
   Stack,
   Title,
   Paper,
-  Flex,
 } from "@mantine/core";
 import { useForm } from "@mantine/form";
 import { CreateScheduleTable } from "./CreateScheduleTable";

@@ -2,7 +2,6 @@ import { Box } from "@mantine/core";
 import { Outlet } from "react-router-dom";
 import { HeaderMegaMenu } from "./Header/Header";
 import { NavbarMinimal } from "./Navbar/Navbar";
-import { FooterLinks } from "./Footer/Footer";
 
 export default function Layout() {
   return (

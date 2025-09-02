@@ -1,6 +1,6 @@
 import { Box } from "@mantine/core";
-import { HeaderMegaMenu } from "../Header/Header";
-import { NavbarMinimal } from "../Navbar/Navbar";
+// import { HeaderMegaMenu } from "../Header/Header";
+// import { NavbarMinimal } from "../Navbar/Navbar";
 import { StatsRing } from "../Stats/Stats";
 import { UsersRolesTable } from "../Tables/Tables";
 
